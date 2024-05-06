@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|c:\\users\\asus\\desktop\\taskmvcconnection\\mvcconnect\\mvcconnect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|solutionrelative:mvcconnect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|c:\\users\\asus\\desktop\\taskmvcconnection\\mvcconnect\\mvcconnect\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|solutionrelative:mvcconnect\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|c:\\users\\asus\\desktop\\taskmvcconnection\\mvcconnect\\mvcconnect\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|solutionrelative:mvcconnect\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|c:\\users\\asus\\desktop\\taskmvcconnection\\mvcconnect\\mvcconnect\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|solutionrelative:mvcconnect\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|c:\\users\\asus\\desktop\\taskmvcconnection\\mvcconnect\\mvcconnect\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|solutionrelative:mvcconnect\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|c:\\users\\asus\\desktop\\taskmvcconnection\\mvcconnect\\mvcconnect\\models\\recentwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|solutionrelative:mvcconnect\\models\\recentwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|c:\\users\\asus\\desktop\\taskmvcconnection\\mvcconnect\\mvcconnect\\models\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|solutionrelative:mvcconnect\\models\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|c:\\users\\asus\\desktop\\taskmvcconnection\\mvcconnect\\mvcconnect\\views\\worksingle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|solutionrelative:mvcconnect\\views\\worksingle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|c:\\users\\asus\\desktop\\taskmvcconnection\\mvcconnect\\mvcconnect\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|solutionrelative:mvcconnect\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|c:\\users\\asus\\desktop\\taskmvcconnection\\mvcconnect\\mvcconnect\\controllers\\worksinglecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|solutionrelative:mvcconnect\\controllers\\worksinglecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|c:\\users\\asus\\desktop\\taskmvcconnection\\mvcconnect\\mvcconnect\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|solutionrelative:mvcconnect\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|c:\\users\\asus\\desktop\\taskmvcconnection\\mvcconnect\\mvcconnect\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|solutionrelative:mvcconnect\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|c:\\users\\asus\\desktop\\taskmvcconnection\\mvcconnect\\mvcconnect\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|solutionrelative:mvcconnect\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|c:\\users\\asus\\desktop\\taskmvcconnection\\mvcconnect\\mvcconnect\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|solutionrelative:mvcconnect\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|c:\\users\\asus\\desktop\\taskmvcconnection\\mvcconnect\\mvcconnect\\migrations\\20240506195947_createworkandrecentwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBA448F-9733-4360-B8DA-DCAF9C96CB92}|MVCConnect\\MVCConnect.csproj|solutionrelative:mvcconnect\\migrations\\20240506195947_createworkandrecentwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240506195947_CreateWorkAndRecentWork.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Migrations\\20240506195947_CreateWorkAndRecentWork.cs",
+              "RelativeDocumentMoniker": "MVCConnect\\Migrations\\20240506195947_CreateWorkAndRecentWork.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Migrations\\20240506195947_CreateWorkAndRecentWork.cs",
+              "RelativeToolTip": "MVCConnect\\Migrations\\20240506195947_CreateWorkAndRecentWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:59:48.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecentWork.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Models\\RecentWork.cs",
+              "RelativeDocumentMoniker": "MVCConnect\\Models\\RecentWork.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Models\\RecentWork.cs",
+              "RelativeToolTip": "MVCConnect\\Models\\RecentWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:49:09.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "MVCConnect\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "MVCConnect\\ViewModels\\HomeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:32:50.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCConnect\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCConnect\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T19:32:03.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCConnect\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCConnect\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAgwHgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:24:54.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MVCConnect\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "MVCConnect\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:14:54.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Work.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Models\\Work.cs",
+              "RelativeDocumentMoniker": "MVCConnect\\Models\\Work.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Models\\Work.cs",
+              "RelativeToolTip": "MVCConnect\\Models\\Work.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:12:22.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Views\\WorkSingle\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCConnect\\Views\\WorkSingle\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Views\\WorkSingle\\Index.cshtml",
+              "RelativeToolTip": "MVCConnect\\Views\\WorkSingle\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T18:58:05.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorkSingleController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Controllers\\WorkSingleController.cs",
+              "RelativeDocumentMoniker": "MVCConnect\\Controllers\\WorkSingleController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Controllers\\WorkSingleController.cs",
+              "RelativeToolTip": "MVCConnect\\Controllers\\WorkSingleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:57:58.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PricingController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Controllers\\PricingController.cs",
+              "RelativeDocumentMoniker": "MVCConnect\\Controllers\\PricingController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Controllers\\PricingController.cs",
+              "RelativeToolTip": "MVCConnect\\Controllers\\PricingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:42:09.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WorkController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Controllers\\WorkController.cs",
+              "RelativeDocumentMoniker": "MVCConnect\\Controllers\\WorkController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Controllers\\WorkController.cs",
+              "RelativeToolTip": "MVCConnect\\Controllers\\WorkController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:41:30.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVCConnect\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVCConnect\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T18:37:17.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVCConnect\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVCConnect\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T18:27:43.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCConnect\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCConnect\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T18:27:31.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Program.cs",
+              "RelativeDocumentMoniker": "MVCConnect\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskMVCConnection\\MVCConnect\\MVCConnect\\Program.cs",
+              "RelativeToolTip": "MVCConnect\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:24:47.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
